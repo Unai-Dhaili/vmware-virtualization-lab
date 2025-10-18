@@ -62,7 +62,3 @@ Comprehensive technical report (EN & ES) including:
 - Automate setup using **PowerCLI**  
 - Integrate with **Veeam Backup Project** for continuity  
 
----
-
-##  Tags
-`VMware` `vSphere` `ESXi` `vCenter` `SysAdmin` `Infrastructure` `Homelab` `Virtualization` `DNS` `NTP`
