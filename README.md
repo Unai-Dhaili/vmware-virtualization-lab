@@ -42,9 +42,10 @@ Comprehensive technical report (EN & ES) including:
 - Troubleshooting logs and conclusions  
 - Screenshots and configuration outputs  
 
- **Download (Spanish PDF):** [Proyecto Técnico(VMware).pdf](./Home%20Lab%20de%20Virtualización%20con%20VMware_.pdf)
+ **Download (Spanish PDF):** [Proyecto Técnico(VMware).pdf](https://github.com/user-attachments/files/22987052/Proyecto.Tecnico.VMware.pdf)
+
  
- **Download (English PDF):** [Technical Project(VMware).pdf](./Home%20Lab%20de%20Virtualización%20con%20VMware_.pdf)
+ **Download (English PDF):** [Technical Project(VMware).pdf](https://github.com/user-attachments/files/22987056/Technical.Project.VMware.pdf)
 
 ---
 
